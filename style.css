@@ -1,0 +1,57 @@
+p, li {
+    font-size: 18px;
+}
+.Header-1 {
+    color: white;
+    margin: 0;
+    padding: 30px;
+    text-align: center;
+}
+.Header {
+    color: orange;
+    margin: 0;
+    padding: 30px;
+}
+Body {
+  font-family: "Comic Sans MS";
+  background-image: url('https://th.bing.com/th/id/OIP.1zX2VJZp6fwEhXmzXVNeZwHaEH?rs=1&pid=ImgDetMain');
+    background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+  margin: 0;
+  color: darkblue;
+}
+.review {
+  background-color: white;
+  width: 650px;
+  display: none;
+  margin: 0 auto;
+  padding: 50px;
+}
+.active {
+  display: block;
+}
+img {
+  width: 650px;
+
+}
+Button {
+  font-weight: bold;
+  font-size: 16px;
+  color: white;
+  background-color: #28A745;
+  display: block;
+  margin: 40px auto;
+  padding: 10px 40px;
+  border: SOLID 2PX #1B7530;
+  border-radius: 50px;
+ }
+.myimg {
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius:50%;
+  align-content: center;
+  display: block;
+  margin: auto;
+  }
